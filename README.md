@@ -17,6 +17,11 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=S-Bozilovic95&show_icons=true)
 
+Have a look at my work:
+- https://svetozarsbs-5.netlify.app/
+- https://agency-flex.netlify.app
+- https://svetozarfitnessclub.netlify.app/
+
 
 ## You can reach me with the links below
 
