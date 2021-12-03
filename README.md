@@ -2,7 +2,7 @@
 
 - #### Self-taught Web Developer
 
-- #### My website https://.github.io/
+- #### Visit my website https://s-bozilovic-portfolio.netlify.app
 
 ## I have experience with
 
