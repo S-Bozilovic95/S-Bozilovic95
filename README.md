@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=for-the-badge&logo=CSS3&logoColor=black&color=yellow)
 ![Sass](https://img.shields.io/badge/-Sass-222222?style=for-the-badge&logo=Sass&logoColor=black&color=yellow) <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=for-the-badge&logo=Bootstrap&logoColor=black&color=yellow)
-![Sql](https://img.shields.io/badge/-Sql-222222?style=for-the-badge&logo=Sql&logoColor=black&color=yellow)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=Sql&logoColor=black&color=yellow)
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=S-Bozilovic95&show_icons=true)
