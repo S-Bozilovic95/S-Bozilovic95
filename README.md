@@ -1,6 +1,6 @@
 # Hi, I'm Svetozar:
 
-- #### Self-taught Frontend Developer
+- #### Frontend Developer
 
 - #### Visit my website https://s-bozilovic-portfolio.netlify.app
 
