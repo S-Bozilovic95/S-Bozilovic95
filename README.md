@@ -21,11 +21,11 @@ I'm a frontend developer with 5+ years of professional experience, mainly workin
 
 My current professional work is private, but some of the areas I've been working on include:
 
-- 📊 **Data-heavy dashboards** — statistics, charts, tables, filters and real-time data
-- 🔍 **Diagnostics & network monitoring** — system and hardware information, camera statistics and visualizations
-- 📦 **Logistics management** — interactive maps, sectors, cameras, vehicles, people and package tracking
-- ⚡ **Real-time applications** — WebSocket-based updates and live system information
-- 🧩 **Frontend ownership** — taking complex features from solution discussions and API design through implementation and delivery
+- 📊 **Data-heavy dashboards**: statistics, charts, tables, filters and real-time data
+- 🔍 **Diagnostics & network monitoring**: system and hardware information, camera statistics and visualizations
+- 📦 **Logistics management**: interactive maps, sectors, cameras, vehicles, people and package tracking
+- ⚡ **Real-time applications**: WebSocket-based updates and live system information
+- 🧩 **Frontend ownership**: taking complex features from solution discussions and API design through implementation and delivery
 
 ---
 
