@@ -4,7 +4,7 @@
 
 I'm a frontend developer with 5+ years of professional experience, mainly working with **React, TypeScript, and modern frontend technologies**.
 
-Most of my recent professional work is private and hosted on my company's GitLab due to strict NDA and corporate privacy policies, so the public repositories on this profile don't fully represent my current experience. My recent work includes building complex, data-heavy interfaces for a live video surveillance product, including diagnostics, network monitoring, and logistics features.
+**Most of my recent professional work is private and hosted on my company's GitLab due to strict NDA and corporate privacy policies, so the public repositories on this profile don't fully represent my current experience.** My recent work includes building complex, data-heavy interfaces for a live video surveillance product, including diagnostics, network monitoring, and logistics features.
 
 ---
 
