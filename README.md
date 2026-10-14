@@ -4,7 +4,7 @@
 
 I'm a frontend developer with 5 years of experience, mainly working with **React, TypeScript and JavaScript**. I'm based in Serbia and work remotely.
 
-Most of my recent work is private. It is hosted on my company's GitLab and covered by an NDA, so the public repositories on this profile are older and do not show my current level. My recent work is data-heavy, real-time interfaces for a live video surveillance product: diagnostics, network monitoring and logistics features.
+**Most of my recent work is private. It is hosted on my company's GitLab and covered by an NDA, so the public repositories on this profile are older and do not show my current level.** My recent work is data-heavy, real-time interfaces for a live video surveillance product: diagnostics, network monitoring and logistics features.
 
 ---
 
