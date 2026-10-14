@@ -2,9 +2,9 @@
 
 ### 💻 Frontend Developer
 
-I'm a frontend developer with 5+ years of professional experience, mainly working with **React, TypeScript, and modern frontend technologies**.
+I'm a frontend developer with 5 years of experience, mainly working with **React, TypeScript and JavaScript**. I'm based in Serbia and work remotely.
 
-**Most of my recent professional work is private and hosted on my company's GitLab due to strict NDA and corporate privacy policies, so the public repositories on this profile don't fully represent my current experience.** My recent work includes building complex, data-heavy interfaces for a live video surveillance product, including diagnostics, network monitoring, and logistics features.
+Most of my recent work is private. It is hosted on my company's GitLab and covered by an NDA, so the public repositories on this profile are older and do not show my current level. My recent work is data-heavy, real-time interfaces for a live video surveillance product: diagnostics, network monitoring and logistics features.
 
 ---
 
@@ -19,63 +19,59 @@ I'm a frontend developer with 5+ years of professional experience, mainly workin
 
 ## 🚀 Recent professional work
 
-My current professional work is private, but some of the areas I've been working on include:
+I work at Anteklab Srl on **Aylook Security Control (ASC)**. The code is private, but these are the areas I work on:
 
 - 📊 **Data-heavy dashboards:** statistics, charts, tables, filters and real-time data
-- 🔍 **Diagnostics & network monitoring:** system and hardware information, camera statistics and visualizations
+- 🔍 **Diagnostics and network monitoring:** system and hardware information, camera statistics and visualizations
 - 📦 **Logistics management:** interactive maps, sectors, cameras, vehicles, people and package tracking
-- ⚡ **Real-time applications:** WebSocket-based updates and live system information
-- 🧩 **Frontend ownership:** taking complex features from solution discussions and API design through implementation and delivery
+- ⚡ **Real-time applications:** WebSocket updates and live system information
+- 🧩 **Feature ownership:** taking features from API design with the backend team through testing, code review, release and support
+- 🤝 **Coordination:** handling client and helpdesk bug reports, tracking issues through development, opening tickets for frontend and backend developers, and writing reports for the owner
 
 ---
 
-# 🌐 Public projects
+# 🌐 My work on Aylook
 
 ## 🎥 Aylook Security Control (ASC)
-**[Take a look →](https://aylook.com/en/aylook-asc-2/)**
 
-Aylook Security Control (ASC) is the central Electron.js based desktop app for managing Aylook video surveillance systems. It brings live and recorded video, video analysis (IDL), alarm and fire panels, access control, license plate recognition and interactive maps into one customizable interface.
+ASC is an Electron.js desktop app for managing Aylook video surveillance systems. It combines live and recorded video, video analysis (IDL), alarm and fire panels, access control, license plate recognition and interactive maps in one customizable interface.
 
 - Built UI features with React, TypeScript and JavaScript, such as interactive site maps showing cameras and alarms.
 - Handled real-time events over WebSockets, such as movement of people and vehicles, intrusions and alarms.
 - Implemented charts, data tables, infinite scroll, filters and file uploads.
 - Built reusable components shared across the Aylook ecosystem.
-
-<br>
-
----
-
-## 📦 Warehouse & Logistics Management (Aylook)
-**[Take a look →](https://aylook.com/en/sicurezza-nella-logistica-2/)**
-
-A feature for logistics companies that connects video surveillance with warehouse operations. Operators create interactive maps of their warehouses, link cameras to specific sectors, and follow packages in real time or go back through recorded footage using barcode and shipment number search.
-
-- **Sole frontend developer** on the feature. Built the complete UI from scratch.
-- Created a scalable grid system in React and TypeScript where users can build unlimited warehouse layouts and manage camera connections for each sector.
-- Developed the search interface that connects to clients' logistics software and immediately opens the exact video clips for a scanned barcode or shipment number.
-- After release, provided support and applied updates and changes based on client reports.
-
-<br>
+- Worked with the helpdesk and developers on production issues and client communication.
 
 ---
 
-## 📊 Diagnostics & Network Monitoring Dashboard (Aylook)
-**[Take a look →](https://aylook.com/en/diagnostica-2/)**
+## 📦 Warehouse & Logistics Management
 
-An advanced diagnostics page that gives users a clear, real-time view of their network status and the performance of their devices. It displays a large amount of data, statistics and charts in custom dashboard tabs.
+A feature for logistics companies that connects video surveillance with warehouse operations. Operators create interactive maps of their warehouses, link cameras to sectors, and follow packages live or in recorded video using barcode and shipment number search.
+
+- **Sole frontend developer.** Built the complete UI from scratch.
+- Created a scalable grid system in React and TypeScript where users build their own warehouse layouts and link cameras to each sector.
+- Operators move between sectors on the map while the playback time stays the same, so they can follow a person, vehicle or package from camera to camera in recorded video.
+- Developed the search interface connected to the client's logistics software. It opens the exact video clips for a scanned barcode or shipment number.
+- After release, handled support and applied updates based on client reports.
+
+---
+
+## 📊 Diagnostics & Network Monitoring Dashboard
+
+A diagnostics page that shows the network status and device performance in real time, with a large number of charts and statistics in custom dashboard tabs.
 
 - **Main owner of the feature from start to finish**, with full control over the frontend technical choices.
 - Analyzed the design requirements and agreed the API structure with the backend team before development.
-- Built the entire UI from scratch with React, TypeScript and MUI, rendered 100% dynamically based on data from the backend.
-- Handled real-time events over WebSockets and displayed a large number of charts while keeping the UI smooth, with client-side calculations to process performance data.
+- Built the whole UI with React, TypeScript and MUI, rendered fully dynamically from backend data.
+- Displayed about 70 server-side rendered charts, handled real-time events over WebSockets and kept the UI smooth, with client-side calculations to process performance data.
 - Responsible for testing, code review and deployment to production.
-- After release, worked with the technical support team to monitor client feedback and quickly fix edge cases.
+- After release, worked with the technical support team to monitor client feedback and fix edge cases quickly.
 
 ---
 
 ## 🌱 Earlier public work
 
-Some of my earlier public work is available here:
+The repositories on this profile are mostly practice projects from 2021 to 2023. Some of my earlier work is live here:
 
 - 🌐 [Destiliraj](https://zeroxdestiliraj.netlify.app/)
 - 🌐 [Zerox Website](https://zeroxwebsitesb.netlify.app/)
@@ -84,7 +80,7 @@ Some of my earlier public work is available here:
 
 ---
 
-## 📫 You can reach me here
+## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svetozar95@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svetozar-bo%C5%BEilovi%C4%87-668aa0129/)
+- LinkedIn: [Svetozar Božilović](https://www.linkedin.com/in/svetozar-bo%C5%BEilovi%C4%87-668aa0129/)
+- Email: svetozar95@gmail.com
