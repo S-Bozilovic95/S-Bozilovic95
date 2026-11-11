@@ -12,7 +12,7 @@ I'm a frontend developer with 5 years of experience, mainly working with **React
 
 ## 🛠️ What I work with
 
-- **Core:** JavaScript, TypeScript, React.js, HTML, CSS/SCSS, Electron.js
+- **Core:** JavaScript, TypeScript, React.js, Next.js, HTML, CSS/SCSS, Electron.js
 - **Data & State:** WebSockets, REST APIs, TanStack Query, Axios, Redux Toolkit, MobX, Zustand
 - **UI & Forms:** MUI, Tailwind CSS, Styled Components, Bootstrap, BEM, React Hook Form, Formik, Zod, Yup
 - **Testing & Tools:** Vitest, React Testing CI/CD, Jira, Figma, Claude Code
@@ -21,21 +21,20 @@ I'm a frontend developer with 5 years of experience, mainly working with **React
 
 ## 🚀 Recent professional work
 
-I work at Anteklab Srl on **[Aylook Security(ASC)](https://svetozarbozilovic-portfolio.netlify.app/#anteklab)**. The code is private, but these are the areas I work on:
+Sicne 2023. I work as Front-end/React Developer at **[Anteklab Srl](https://antek.it/)**. The code is private, but these are the areas I work on:
 
-- 📊 **[Data-heavy dashboards](https://svetozarbozilovic-portfolio.netlify.app/#dashboard):** statistics, charts, tables, filters and real-time data
-- 🔍 **[Diagnostics and network monitoring](tfolio.netlify.app/#dashboard):** system andhardware information, camera statistics and visualizations
-- 📦 **[Logistics management](https://svetozarbozilovic-portfolio.netlify.app/#logistics):** interactive maps,
-sectors, cameras, vehicles, people and packa
+- 📊 **Data-heavy dashboards:** statistics, charts, tables, filters and real-time data
+- 🔍 **Diagnostics and network monitoring:** system andhardware information, camera statistics and visualizations
+- 📦 **Logistics management:** interactive maps, sectors, cameras, vehicles, people and packages
 - ⚡ **Real-time applications:** WebSocket updates and live system information
 - 🧩 **Feature ownership:** taking features from API design with the backend team through testing, code review, release and support
-- 🤝 **[Coordination](https://svetozarbozilovic-portfolio.netlify.app/#other):** handling client and helpdesk bug reports, tracking issues through development, opening tickets for frontend and backend developers, and writing reports for the owner
+- 🤝 **Coordination:** handling client and helpdesk bug reports, tracking issues through development, opening tickets for frontend and backend developers, and writing reports for the owner
 
 ---
 
 # 🌐 My work on Aylook
 
-## 🎥 [Aylook Security Control (ASC)](https:.netlify.app/#asc)
+## 🎥 [Aylook Security Control (ASC)](https://svetozarbozilovic-portfolio.netlify.app/#asc)
 
 ASC is an Electron.js desktop app for managing Aylook video surveillance systems. It combines live and recorded video, video analysis (IDL), alarm and fire panels, access control, license plate recognition and interactive maps in one customizable interface.
 
@@ -44,8 +43,6 @@ ASC is an Electron.js desktop app for managing Aylook video surveillance systems
 - Implemented charts, data tables, infinite scroll, filters and file uploads.
 - Built reusable components shared across the Aylook ecosystem.
 - Worked with the helpdesk and developers on communication.
-
-👉 [See ASC on my portfolio](https://svetozarbozilovic-portfolio.netlify.app/#asc)
 
 ---
 
@@ -59,8 +56,6 @@ A feature for logistics companies that connects video surveillance with warehous
 - Developed the search interface connected to the client's logistics software. It opens the exact video clips for a
 scanned barcode or shipment number.
 - After release, handled support and applied updates based on client reports.
-
-👉 [See the warehouse view and the step-by-sportfolio](https://svetozarbozilovic-portfolio.netlify.app/#logistics)
 
 ---
 
@@ -77,21 +72,17 @@ with client-side calculations to process per
 - Responsible for testing, code review and deployment to production.
 - After release, worked with the technical support team to monitor client feedback and fix edge cases quickly.
 
-👉 [See the dashboard on my portfolio](https://svetozarbozilovic-portfolio.netlify.app/#dashboard)
-
 ---
 
 ## 🧰 [Other Aylook work](https://svetozarbozilovic-portfolio.netlify.app/#other)
 
 Besides ASC, I worked on AyCloud (a Next.js panel for managing Aylook machines), HWTester (the frontend of the hardware testing tool) and the refactoring of Ketna (an internal business app).
 
-👉 [See these tools on my portfolio](https://svetozarbozilovic-portfolio.netlify.app/#other)
-
 ---
 
 ## 🌱 Earlier public work
 
-The repositories on this profile are mostly o 2023. Some of my earlier work is live here:
+The repositories on this profile are mostly made before 2023. Some of my earlier work is live here:
 
 - 🌐 [Destiliraj](https://zeroxdestiliraj.netlify.app/)
 - 🌐 [Zerox Website](https://zeroxwebsitesb.netlify.app/)
