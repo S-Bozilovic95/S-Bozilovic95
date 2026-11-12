@@ -12,19 +12,19 @@ I'm a frontend developer with 5 years of experience, mainly working with **React
 
 ## 🛠️ What I work with
 
-- **Core:** JavaScript, TypeScript, React.js, Next.js, HTML, CSS/SCSS, Electron.js
+- **Core:** JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3/SCSS, Electron.js
 - **Data & State:** WebSockets, REST APIs, TanStack Query, Axios, Redux Toolkit, MobX, Zustand
 - **UI & Forms:** MUI, Tailwind CSS, Styled Components, Bootstrap, BEM, React Hook Form, Formik, Zod, Yup
-- **Testing & Tools:** Vitest, React Testing CI/CD, Jira, Figma, Claude Code
+- **Testing & Tools:** Vitest, Jest, React Testing Library, Git, GitHub, GitLab CI/CD, Swagger, Jira, Figma, Claude Code
 
 ---
 
 ## 🚀 Recent professional work
 
-Sicne 2023. I work as Front-end/React Developer at **[Anteklab Srl](https://antek.it/)**. The code is private, but these are the areas I work on:
+Since 2023, I work as a Frontend / React Developer at **[Anteklab Srl](https://antek.it/)**. The code is private, but these are the areas I work on:
 
 - 📊 **Data-heavy dashboards:** statistics, charts, tables, filters and real-time data
-- 🔍 **Diagnostics and network monitoring:** system andhardware information, camera statistics and visualizations
+- 🔍 **Diagnostics and network monitoring:** system and hardware information, camera statistics and visualizations
 - 📦 **Logistics management:** interactive maps, sectors, cameras, vehicles, people and packages
 - ⚡ **Real-time applications:** WebSocket updates and live system information
 - 🧩 **Feature ownership:** taking features from API design with the backend team through testing, code review, release and support
@@ -39,10 +39,10 @@ Sicne 2023. I work as Front-end/React Developer at **[Anteklab Srl](https://ante
 ASC is an Electron.js desktop app for managing Aylook video surveillance systems. It combines live and recorded video, video analysis (IDL), alarm and fire panels, access control, license plate recognition and interactive maps in one customizable interface.
 
 - Built UI features with React, TypeScript and JavaScript, such as interactive site maps showing cameras and alarms.
-- Handled real-time events over WebSockets, d vehicles, intrusions and alarms.
+- Handled real-time events over WebSockets, such as movement of people and vehicles, intrusions and alarms.
 - Implemented charts, data tables, infinite scroll, filters and file uploads.
 - Built reusable components shared across the Aylook ecosystem.
-- Worked with the helpdesk and developers on communication.
+- Worked with the helpdesk and developers on production issues and client communication.
 
 ---
 
@@ -51,24 +51,21 @@ ASC is an Electron.js desktop app for managing Aylook video surveillance systems
 A feature for logistics companies that connects video surveillance with warehouse operations. Operators create interactive maps of their warehouses, link cameras to sectors, and follow packages live or in recorded video using barcode and shipment number search.
 
 - **Sole frontend developer.** Built the complete UI from scratch.
-- Created a scalable grid system in React and their own warehouse layouts and linkcameras to each sector.
+- Created a scalable grid system in React and TypeScript where users build their own warehouse layouts and link cameras to each sector.
 - Operators move between sectors on the map while the playback time stays the same, so they can follow a person, vehicle or package from camera to camera in recorded video.
-- Developed the search interface connected to the client's logistics software. It opens the exact video clips for a
-scanned barcode or shipment number.
+- Developed the search interface connected to the client's logistics software. It opens the exact video clips for a scanned barcode or shipment number.
 - After release, handled support and applied updates based on client reports.
 
 ---
 
 ## 📊 [Diagnostics & Network Monitoring Dashboard](https://svetozarbozilovic-portfolio.netlify.app/#dashboard)
 
-A diagnostics page that shows the network status and device performance in real time, with a large number of charts
-and statistics in custom dashboard tabs.
+A diagnostics page that shows the network status and device performance in real time, with a large number of charts and statistics in custom dashboard tabs.
 
 - **Main owner of the feature from start to finish**, with full control over the frontend technical choices.
 - Analyzed the design requirements and agreed the API structure with the backend team before development.
 - Built the whole UI with React, TypeScript and MUI, rendered fully dynamically from backend data.
-- Displayed about 70 server-side rendered charts, handled real-time events over WebSockets and kept the UI smooth,
-with client-side calculations to process per
+- Displayed about 70 server-side rendered charts, handled real-time events over WebSockets and kept the UI smooth, with client-side calculations to process performance data.
 - Responsible for testing, code review and deployment to production.
 - After release, worked with the technical support team to monitor client feedback and fix edge cases quickly.
 
